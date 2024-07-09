@@ -47,7 +47,7 @@ Some alternate tools that do similar things:
 Copy the following to a terminal:
 
 ```bash
-bash <(curl -sSf https://raw.githubusercontent.com/samuelvanderwaal/metaboss/main/scripts/install.sh)
+bash <(curl -sSf https://raw.githubusercontent.com/devenye/metaboss/main/scripts/install.sh)
 ```
 
 If you get errors you may need dependencies:
@@ -66,7 +66,7 @@ brew install openssl@3
 
 ### Binaries
 
-Linux, MacOS and Windows binaries available in [releases](https://github.com/samuelvanderwaal/metaboss/releases), thanks to CI work done by [Kartik Soneji](https://github.com/KartikSoneji).
+Linux, MacOS and Windows binaries available in [releases](https://github.com/devenye/metaboss/releases).
 
 ### Install From crates.io
 
@@ -87,13 +87,13 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 Clone the source:
 
 ```bash
-git clone git@github.com:samuelvanderwaal/metaboss.git
+git clone git@github.com:devenye/metaboss.git
 ```
 
 or
 
 ```bash
-git clone https://github.com/samuelvanderwaal/metaboss.git
+git clone https://github.com/devenye/metaboss.git
 ```
 
 Change directory and check out the `main` branch:
@@ -119,8 +119,8 @@ cargo build --release
 
 ## Contact
 
-Email: sam@vanderwaal.dev
+Email: devenyedunn934@gmail.com
 
-Twitter: [@samvwaal](https://twitter.com/samvwaal)
+Twitter: [@Devenye](https://x.com/Devenye)
 
-Discord: @archaeopteryx#7615
+Discord: @devenye
